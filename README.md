@@ -1,17 +1,17 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Xanlar;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Khanlar;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Khanlar Abbasov, Computer Scientists from Azerbaijan
+  Hi, I'm Khanlar Abbasov, a Computer Scientists from Azerbaijan
   <br>
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree at KAIST University Computer Science and Electrical Engineering Department
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
+  💻 I love Software, Hardware and learning anything about them 😊
   <br>
   📚 I’m currently focusing on Software Development and Artificial Intelligence
   <br>
